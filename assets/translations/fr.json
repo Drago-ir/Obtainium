@@ -264,19 +264,19 @@
     "bgTaskStarted": "Background task started - check logs.",
     "runBgCheckNow": "Run Background Update Check Now",
     "versionExtractWholePage": "Apply Version Extraction Regex to Entire Page",
-    "installing": "Installing",
-    "skipUpdateNotifications": "Skip update notifications",
+    "installing": "Installation",
+    "skipUpdateNotifications": "Passer la notification de mises à jour.",
     "updatesAvailableNotifChannel": "Mises à jour disponibles",
     "appsUpdatedNotifChannel": "Applications mises à jour",
-    "appsPossiblyUpdatedNotifChannel": "App Updates Attempted",
+    "appsPossiblyUpdatedNotifChannel": "Tentative de mises à jour de l'application",
     "errorCheckingUpdatesNotifChannel": "Erreur lors de la vérification des mises à jour",
     "appsRemovedNotifChannel": "Applications supprimées",
     "downloadingXNotifChannel": "Téléchargement {}",
     "completeAppInstallationNotifChannel": "Installation complète de l'application",
     "checkingForUpdatesNotifChannel": "Vérification des mises à jour",
-    "onlyCheckInstalledOrTrackOnlyApps": "Only check installed and Track-Only apps for updates",
+    "onlyCheckInstalledOrTrackOnlyApps": "Vérifier uniquement les mises à jour des applications installées et des applications Track-Only",
     "supportFixedAPKURL": "Support fixed APK URLs",
-    "selectX": "Select {}",
+    "selectX": "Sélectionner {}",
     "removeAppQuestion": {
         "one": "Supprimer l'application ?",
         "other": "Supprimer les applications ?"
@@ -290,7 +290,7 @@
         "other": "La vérification de la mise à jour en arrière-plan a rencontré un {}, planifiera une nouvelle tentative de vérification dans {} minutes"
     },
     "bgCheckFoundUpdatesWillNotifyIfNeeded": {
-        "one": "La vérification des mises à jour en arrière-plan trouvée {} mise à jour - avertira l'utilisateur si nécessaire",
+        "one": "La vérification des mises à jour en arrière-plan a trouvé {} mise à jour - avertira l'utilisateur si nécessaire",
         "other": "La vérification des mises à jour en arrière-plan a trouvé {} mises à jour - avertira l'utilisateur si nécessaire"
     },
     "apps": {
@@ -326,7 +326,7 @@
         "other": "{} et {} autres applications ont été mises à jour."
     },
     "xAndNMoreUpdatesPossiblyInstalled": {
-        "one": "{} and 1 more app may have been updated.",
-        "other": "{} and {} more apps may have been updated."
+        "one": "{} et 1 autre application peuvent avoir été mises à jour.",
+        "other": "{} et {} d'autres applications peuvent avoir été mises à jour."
     }
 }
